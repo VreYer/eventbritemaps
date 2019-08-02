@@ -1,9 +1,9 @@
 # eventbritemaps
 
 
-npm install
-cd eventbritemaps
-npm install
+npm install <br>
+cd eventbritemaps <br>
+npm install <br>
 
-cd ..
-npm run dev
+cd .. <br>
+npm run dev <br>
