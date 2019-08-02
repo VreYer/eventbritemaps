@@ -2,7 +2,7 @@
 
 
 npm install <br>
-cd eventbritemaps <br>
+cd frontend <br>
 npm install <br>
 
 cd .. <br>
