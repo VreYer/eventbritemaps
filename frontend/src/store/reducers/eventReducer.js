@@ -37,7 +37,7 @@ const eventReducer = (state = initialState, action) => {
             }
         case USER_LOGOUT:
             return {
-                loading: true,
+                loading: false,
                 error: null,
                 events: {}
             }
